@@ -52,6 +52,11 @@ a:hover{
     color: #EAF6F6;
 } 
 
+.main-img{
+    width: 50%;
+    height: auto;
+}
+
 .circle{
     border-radius: 100%;
     width: 15%;
