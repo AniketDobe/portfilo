@@ -28,6 +28,7 @@ h3{
     color: #66BFBF;
     font-family: 'Montserrat', sans-serif;
     font-size: 1.2rem;
+
 }
 
 p{
@@ -53,6 +54,7 @@ a:hover{
 } 
 
 .main-img{
+    /* For Mountain Image */
     width: 50%;
     height: auto;
 }
@@ -116,13 +118,13 @@ a:hover{
     bottom: 300px;
 }
 
-.code-img{
+.frontend-img{
     width: 25%;
     float: left;
     margin-right: 30px;
 }
 
-.chilli-img{
+.backend-img{
     width: 25%;
     float: right;
     margin-left: 30px;
@@ -153,4 +155,3 @@ a:hover{
     background-image: linear-gradient(to bottom, #30E3CB, #2BC4AD);
     text-decoration: none;
 }
-
